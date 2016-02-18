@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Newton's Glass]]></title>
         <description><![CDATA[Newton's Glass]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/newton-s-glass/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 02:11:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 11:11:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/newton-s-glass/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Kristin Newton was born in Santa Monica, California, but now lives in Japan. She apprenticed for 5 years at the stained glass studio of Roger Darricarre in Los Angeles. She graduated with a B.A. in Fine Art from University of California, Northridge and taught extension stained glass classes there after graduation. She opened "The Light Through Yonder Window" glass studio in Studio City before being invited to Japan in 1980 on an art exchange program and has lived in Japan ever since. She taught at The Stained Glass Professional School in Tokyo from 1982 until 2003. She completed many stained glass commissions in Japan through the Mayfair Stained Glass Studio, the largest in Japan, until 1993, and has completed many stained glass commissions in Japan, Hong Kong, and the U.S. for banks, hotels, public buildings, Buddhist temples, and private residences. Now her focus is on fused glass.</p>]]></description>
-            <link>undefinedd6239e52-638b-4b50-8f0a-cf5d5829f84b/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ad41242-877d-4578-9c44-f9dd7ffccc56.jpg">]]></description>
+            <link>https://thegrid.ai/newton-s-glass/d6239e52-638b-4b50-8f0a-cf5d5829f84b/index.html</link>
             <guid isPermaLink="false">d6239e52-638b-4b50-8f0a-cf5d5829f84b</guid>
-            <pubDate>Thu, 18 Feb 2016 02:11:38 GMT</pubDate>
+            <pubDate>Thu, 18 Feb 2016 11:10:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
