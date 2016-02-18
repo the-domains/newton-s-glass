@@ -2,6 +2,7 @@ name: "Newton's Glass"
 favicon: null
 layout_spectrum: 0.5903803932014853
 typography_spectrum: 0.10418208339251578
+title: "Newton's Glass"
 cta:
   domain: null
   bucket: null
